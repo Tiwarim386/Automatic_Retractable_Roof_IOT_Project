@@ -18,8 +18,21 @@ Functionalities:
 
 
        
-
-
-
-
-![IBM IoT Cloud real time values]("IBM IoT Cloud (real-time values).png")
+<p align="center">
+  <h3 align="center">  IBM IoT Cloud real time values </h3>
+</p>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Tiwarim386/Automatic_Retractable_Roof_IOT_Project/blob/master/IBM%20IoT%20Cloud%20(real-time%20values).png">
+</p>
+<p align="center">
+  <h3 align="center">  NodeRed Function Code </h3>
+</p>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Tiwarim386/Automatic_Retractable_Roof_IOT_Project/blob/master/NodeRed%20Function%20code.png">
+</p>
+<p align="center">
+  <h3 align="center">  NodeRed Flow and Logs </h3>
+</p>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Tiwarim386/Automatic_Retractable_Roof_IOT_Project/blob/master/NodeRed%20Flow%20and%20logs.png">
+</p>
