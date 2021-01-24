@@ -1,6 +1,6 @@
 # Automatic_Retractable_Roof_IOT_Project
 
-Used C++,IBM Watson IOT modules, Rain sensor, Node RED, Arduino uno, Blynk app to build an Automatic Retractable Roof.
+Used C++,IBM Watson IOT modules, Rain sensor,Servo motors, Node RED, Node MCU, Arduino Uno, Blynk app to build an Automatic Retractable Roof.
 
 Functionalities:
 
