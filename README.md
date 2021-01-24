@@ -1,6 +1,6 @@
 # Automatic_Retractable_Roof_IOT_Project
 
-Used IBM Watsom IOT modules, Rain sensor, Node RED, Arduino uno to build an Automatic Retractable Roof.
+Used C++,IBM Watson IOT modules, Rain sensor, Node RED, Arduino uno, Blynk app to build an Automatic Retractable Roof.
 
 Functionalities:
 
@@ -14,7 +14,7 @@ Functionalities:
 
 5. The user was provided an Blynk app with two functionalities- Close roof/ Open roof. It allowed to user to control the roof while being far away.
 
-6. When the user is near he can manually close/open the roof irrespective of rain sensor values using WIFI
+6. When the user is near he can manually close/open the roof irrespective of rain sensor values using WiFi
 
 
        
